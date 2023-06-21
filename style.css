@@ -1,0 +1,57 @@
+#weatherApp{
+    background-color: pink;
+    /* height: 600px; */
+    padding-bottom: 80px;
+}
+#search{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#searchbtn1{
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+}
+#searchField{
+    margin-top: 20px;
+    border-radius: 15px;
+    font-size: medium;
+    font-weight: 600;
+    color: rgb(7, 7, 7);
+    padding-left: 7px;
+}
+#img1{
+    width: 100px;
+}
+#display{
+    align-content: center;
+    text-align: center;
+    background-color: rgb(123, 167, 255);
+    width: 40%;
+    border-radius: 20px;
+}
+#week{
+    background-color: rgb(168, 228, 116);
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#day{
+    background-color: rgb(65, 223, 205);
+    width: 90px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 15px;
+    
+}
+#img2{
+    width: 40px;
+}
+#forcast{
+    text-align: center;
+    color: rgb(15, 60, 242);
+    font-family: 'Times New Roman', Times, serif;
+}
